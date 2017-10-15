@@ -17,7 +17,7 @@ use yii\filters\VerbFilter;
  */
 class TypeController extends AdminController
 {
-    //проверка
+
     /**
      * @inheritdoc
      */
